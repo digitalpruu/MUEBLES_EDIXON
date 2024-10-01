@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Muebles Edixon, nos dedicamos a la fabricación de muebles de carpintería y aglomerados de alta calidad. Nuestra pasión por el diseño y la funcionalidad se refleja en cada uno de nuestros productos, desde cocinas integrales hasta muebles de oficina.",
+        "description": "En Muebles Edixon, nos dedicamos a la fabricación de muebles de carpintería y aglomerados de alta calidad sobre medidas especiales. Nuestra pasión por el diseño y la funcionalidad se refleja en cada uno de nuestros productos, desde cocinas integrales hasta muebles de oficina.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nuestro Objetivo",
-        "description": "Trabajamos con materiales de primera y técnicas innovadoras para ofrecerte muebles duraderos y con estilo.",
+        "description": "Trabajamos con materiales de primera y técnicas innovadoras para ofrecerte muebles duraderos y con estilo de alta calidad.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 2431571",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "edixonpinillabeltran@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Muebles Edixon ",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
